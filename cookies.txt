@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+verifyus.cc	TRUE	/	FALSE	1999999999	CPABUILD_API	59dcda171038199bba3a
+
